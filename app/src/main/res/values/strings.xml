@@ -4,6 +4,22 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="name_of_the_book">Name of the Book</string>
+    <string name="bookprice">BookPrice($)</string>
+    <string name="authorname">AuthorName</string>
+    <string name="booktype">BookType</string>
+    <string name="book_details">Book Details</string>
+    <string name="book_name">Book Name</string>
+    <string name="price_in_dollar">Price in Dollar</string>
+    <string name="select_book_types">Select Book Types</string>
+    <string name="scifi">SciFi</string>
+    <string name="fantasy">Fantasy</string>
+    <string name="others">Others</string>
+    <string name="author_name">Author Name</string>
+    <string name="save">SAVE</string>
+    <string name="books">Books</string>
+    <string name="about">About</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
 </resources>
-
-

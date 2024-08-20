@@ -7,19 +7,19 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="com.ujjwal.ebook.ui.home.HomeFragment"
+        android:name="com.example.ebook.ui.HomeFragment"
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/navigation_books"
-        android:name="com.ujjwal.ebook.ui.book.BookFragment"
+        android:name="com.example.ebook.ui.BookFragment"
         android:label="Add Book"
-        tools:layout="@layout/fragment_books" />
+        tools:layout="@layout/fragment_book" />
 
     <fragment
         android:id="@+id/navigation_about"
-        android:name="com.ujjwal.ebook.ui.about.AboutFragment"
+        android:name="com.example.ebook.ui.AboutFragment"
         android:label="About"
         tools:layout="@layout/fragment_about" />
 </navigation>
